@@ -60,5 +60,8 @@ I'm a **Software Engineering & Data Analyst** who loves turning data into insigh
 - 📧 **Email:** hrihhana@gmail.com
 
 ---
+## 🔥 My GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rihhanna&theme=radical)](https://git.io/streak-stats)
 
 *"Debugging is like being a detective in a crime movie where you're also the murderer." – Enjoying every bug I fix! 🐞✨*
