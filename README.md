@@ -38,7 +38,7 @@ I'm a **Software Engineering & Data Analyst** who loves turning data into insigh
 
 | Project | Description |
 |---------|-------------|
-| **Crop IQ** | [Brief description of your Crop IQ project] |
+| **Crop IQ** | Intelligent crop management for maximum yield efficiency. |
 | **Telesom Customer Churn Analysis** | Data analysis project analyzing customer churn patterns |
 | **Online Book Store** | Full-featured e-commerce bookstore application |
 
@@ -62,6 +62,6 @@ I'm a **Software Engineering & Data Analyst** who loves turning data into insigh
 ---
 ## 🔥 My GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rihhanna&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rihhanna&theme=dark&hide_border=true&fire=FF4500)](https://git.io/streak-stats)
 
 *"Debugging is like being a detective in a crime movie where you're also the murderer." – Enjoying every bug I fix! 🐞✨*
