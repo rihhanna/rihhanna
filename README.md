@@ -20,6 +20,13 @@ I'm a **Software Engineering & Data Analyst** who loves turning data into insigh
 - 🤝 Open to **collaborations** and **job opportunities**
 
 ---
+## 💬 Ask Me About
+
+- 🐍 Python & Django best practices
+- 📊 Data visualization with Power BI
+- 🐛 Debugging strategies (my favorite!)
+- 🎓 How I graduated Magna Cum Laude
+- 🤝 Open source contribution for beginners
 
 ## 🛠️ Tech Stack
 
@@ -63,8 +70,16 @@ I'm a **Software Engineering & Data Analyst** who loves turning data into insigh
 - 📈 **Advanced Data Analytics** – Deeper insights from complex datasets
 
 ---
+## 🔨 Currently Building
 
-## 📊 GitHub Analytics
+> **Next.js Portfolio** – Personal website to showcase my projects
+> **Customer Churn Prediction Model** – Machine learning model using Python
+
+## 📊 GitHub Analytics 
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rihhanna&theme=darkhub&no-frame=true&margin-w=15&column=7)](https://github.com/rihhanna)
 
 ### Activity Graph
 ![Rehana's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rihhanna&theme=github-dark&hide_border=true&area=true&line=8A2BE2&point=8A2BE2&color=8A2BE2)
@@ -80,10 +95,19 @@ I'm a **Software Engineering & Data Analyst** who loves turning data into insigh
 
 ---
 
+### 📅 Contribution Calendar
+
+<img src="https://ghchart.rshah.org/8A2BE2/rihhanna" alt="Rehana's GitHub Contribution Calendar" />
+
 ## 🐍 Snake Eating My Contributions
 
 ![snake svg](https://raw.githubusercontent.com/rihhanna/rihhanna/output/github-contribution-grid-snake-dark.svg)
 
+---
+
+-## ✍️ Blog Posts
+
+I write on [Dev.to](https://dev.to/rihhanna) about data analytics, Python, and my journey in tech.
 ---
 
 ## 🤝 Let's Connect
@@ -101,6 +125,11 @@ I'm a **Software Engineering & Data Analyst** who loves turning data into insigh
 </p>
 
 ---
+<div align="center">
+  <a href="https://www.buymeacoffee.com/rihhanna">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+</div>
 
 <div align="center">
   
