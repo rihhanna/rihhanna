@@ -1,8 +1,4 @@
-Here's your **complete professional README** with a cleaner, more elegant header section. I've replaced the typing animation with a sophisticated ASCII name header and removed the "Hijabi in Tech" badge since you preferred it elsewhere.
 
----
-
-## 📋 Complete README Code (Copy & Paste Entirely)
 
 ```markdown
 <div align="center">
@@ -122,14 +118,15 @@ graph LR
 | | | Customer Churn Prediction ML Model |
 
 ---
+### 📈 GitHub Stats Summary
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=rihhanna&show_icons=true&include_all_commits=true&hide_border=true&theme=dark&icon_color=8A2BE2&title_color=8A2BE2" alt="Rehana's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rihhanna&langs_count=8&layout=compact&hide_border=true&theme=dark&title_color=8A2BE2" alt="Rehana's top languages" /> |
+| ------------- | ------------- |
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rihhanna&theme=darkhub&no-frame=true&margin-w=15&column=7)](https://github.com/rihhanna)
 
 ### 📈 Activity Graph
 
