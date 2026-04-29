@@ -58,7 +58,7 @@ I'm a **Software Engineering & Data Analyst** who loves turning data into insigh
 | Project | Description |
 |---------|-------------|
 | **Crop IQ** | Intelligent crop management system for maximum yield efficiency |
-| **Telesom Customer Churn Analysis** | Data analysis project analyzing customer churn patterns using Power BI |
+| **Telco Customer Churn Analysis** | Data analysis project analyzing customer churn patterns using Power BI |
 | **Online Book Store** | Full-featured e-commerce bookstore application with Django |
 
 ---
