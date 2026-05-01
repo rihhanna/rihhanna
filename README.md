@@ -125,6 +125,6 @@ I write on [Dev.to](https://dev.to/rihhanna) about data analytics, Python, and m
   
 ### ✨ *"Debugging is like being a detective in a crime movie where you're also the murderer."* ✨
 
-**Enjoying every bug I fix! 🐞✨**  
+**Enjoying every bug I fix!🐞✨**  
 **🧕 Rehana Hassan – Software Engineer & Data Analyst**
 </div>
