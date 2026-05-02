@@ -84,8 +84,6 @@ I'm a **Software Engineering & Data Analyst** who loves turning data into insigh
 ### Activity Graph
 ![Rehana's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rihhanna&theme=github-dark&hide_border=true&area=true&line=6C63FF&point=6C63FF&color=6C63FF)
 
-### GitHub Stats
-![Rehana's GitHub stats](https://github-readme-stats.vercel.app/api?username=rihhanna&show_icons=true&theme=dark&icon_color=6C63FF&title_color=6C63FF&text_color=ffffff&bg_color=0a0a0a)
 
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rihhanna&layout=compact&theme=dark&title_color=6C63FF&text_color=ffffff&bg_color=0a0a0a)
