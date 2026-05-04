@@ -72,10 +72,10 @@ I'm a **Software Engineering & Data Analyst** who loves turning data into insigh
 
 ---
 
-## 🔨 Currently Building
+## 🔨 Currently Learning
 
-> **Next.js Portfolio** – Personal website to showcase my projects
-> **Customer Churn Prediction Model** – Machine learning model using Python
+> **Machine learning** – ML from coursera
+
 
 ---
 
