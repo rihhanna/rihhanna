@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=900&height=60&duration=4000&lines=Hi+👋,+I'm+Rehana+Hassan;Software+Engineer+%7C+Data+Analyst;Turning+Data+into+Insights;Building+Impactful+Solutions&color=6C63FF" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=900&height=60&duration=4000&lines=Hi+👋,+I'm+Rehana+Hassan;Software+Engineer+%7C+Data+Analyst;Turning+Data+into+Insights;Building+Impactful+Solutions&color=FFD700" />
 
-<img src="https://komarev.com/ghpvc/?username=rihhanna&label=Profile%20Views&color=6C63FF&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=rihhanna&label=Profile%20Views&color=FFD700&style=flat-square" />
 
 </div>
 
@@ -10,12 +10,11 @@
 
 ## 👩‍💻 About Me
 
-🎓 Software Engineering graduate with **Magna Cum Laude (3.86 GPA)**  
+🎓 Software Engineering Graduate (**Magna Cum Laude – 3.86 GPA**)  
 🏆 Hackathon Winner – *Telesom Academy 2024*  
-📊 Passionate about **Data Analytics & Software Development**  
 🧕 Proud **Hijabi in Tech**  
 
-💡 I build solutions that combine **clean code + meaningful data insights**
+💡 I specialize in **Data Analytics + Full-Stack Development**
 
 📫 **Email:** hrihhana@gmail.com  
 🔗 **LinkedIn:** https://linkedin.com/in/rehana-hassan  
@@ -24,8 +23,8 @@
 
 ## 🚀 What I Do
 
-- 📊 Data Analysis & Visualization (Power BI, Pandas)
-- 💻 Full-Stack Development (Django, React)
+- 📊 Data Analysis (Power BI, Pandas)
+- 💻 Web Development (Django, React)
 - 🐍 Python Development
 - 🐛 Debugging & Optimization
 
@@ -34,25 +33,19 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=6C63FF)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=6C63FF)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=6C63FF)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=6C63FF)
+![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=FFD700)
+![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=FFD700)
+![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk&logoColor=FFD700)
+![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp&logoColor=FFD700)
 
 ### 🌐 Web
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=6C63FF)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=6C63FF)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=6C63FF)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=FFD700)
+![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=FFD700)
+![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=FFD700)
 
-### 📊 Data Tools
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=6C63FF)
-![Tableau](https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-### ⚙️ Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=6C63FF)
+### 📊 Data
+![Power BI](https://img.shields.io/badge/powerbi-black?style=for-the-badge&logo=powerbi&logoColor=FFD700)
+![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas&logoColor=FFD700)
 
 ---
 
@@ -60,15 +53,15 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rihhanna&show_icons=true&theme=dark&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff&bg_color=0a0a0a"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rihhanna&show_icons=true&theme=dark&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=000000&cache_seconds=1800"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rihhanna&layout=compact&theme=dark&title_color=6C63FF&text_color=ffffff&bg_color=0a0a0a"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rihhanna&layout=compact&theme=dark&title_color=FFD700&text_color=ffffff&bg_color=000000&cache_seconds=1800"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=rihhanna&theme=dark&hide_border=true&fire=6C63FF&ring=6C63FF&currStreakLabel=6C63FF"/>
+<img src="https://streak-stats.demolab.com/?user=rihhanna&theme=dark&background=000000&ring=FFD700&fire=FFD700&currStreakLabel=FFD700"/>
 
 </div>
 
@@ -76,7 +69,17 @@
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rihhanna&theme=github-dark&hide_border=true&area=true&line=6C63FF&point=6C63FF&color=6C63FF"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rihhanna&theme=github-dark&bg_color=000000&color=FFD700&line=FFD700&point=ffffff&hide_border=true"/>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rihhanna&theme=darkhub&no-frame=true&margin-w=10&title=Stars,Followers,Commits,Repositories"/>
+
+</div>
 
 ---
 
@@ -84,16 +87,16 @@
 
 | Project | Description |
 |--------|------------|
-| 🌱 **Crop IQ** | Smart crop system for improving agricultural productivity |
-| 📊 **Telco Churn Analysis** | Data-driven insights using Power BI |
-| 📚 **Online Bookstore** | Full-stack e-commerce app using Django |
+| 🌱 Crop IQ | Smart agriculture system |
+| 📊 Churn Analysis | Power BI dashboard |
+| 📚 Online Bookstore | Django full-stack app |
 
 ---
 
 ## 📚 Currently Learning
 
 - 🤖 Machine Learning  
-- ☁️ Cloud Computing (next step 🔥)  
+- ☁️ Cloud Computing  
 
 ---
 
@@ -112,15 +115,15 @@
 <div align="center">
 
 <a href="https://linkedin.com/in/rehana-hassan">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=FFD700"/>
 </a>
 
 <a href="mailto:hrihhana@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=FFD700"/>
 </a>
 
 <a href="https://github.com/rihhanna">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=FFD700"/>
 </a>
 
 </div>
@@ -129,7 +132,7 @@
 
 <div align="center">
 
-✨ *"Debugging is like being the detective and the criminal at the same time."*  
+✨ *"Excellence is built one bug fix at a time."*  
 
 🧕 **Rehana Hassan**  
 **Software Engineer | Data Analyst**
