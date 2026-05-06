@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=900&height=60&duration=4000&lines=Hi+👋,+I'm+Rehana+Hassan;Software+Engineer+%7C+Data+Analyst;Turning+Data+into+Insights;Building+Impactful+Solutions&color=FFD700" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=900&height=60&duration=4000&lines=Hi+👋,+I'm+Rehana+Hassan;Software+Engineer+%7C+Data+Analyst;Turning+Data+into+Insights;Building+Impactful+Solutions&color=FFD700" />
 
 <img src="https://komarev.com/ghpvc/?username=rihhanna&label=Profile%20Views&color=FFD700&style=flat-square" />
 
@@ -8,29 +8,30 @@
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
 🎓 Software Engineering Graduate (**Magna Cum Laude – 3.86 GPA**)  
 🏆 Hackathon Winner – *Telesom Academy 2024*  
-🧕 Proud **Hijabi in Tech**  
+🧕 Proud **Hijabi in Tech**
 
-💡 I specialize in **Data Analytics + Full-Stack Development**
+💡 Passionate about **Data Analytics, Machine Learning & Full-Stack Development**
 
+📍 Based in Somaliland  
 📫 **Email:** hrihhana@gmail.com  
 🔗 **LinkedIn:** https://linkedin.com/in/rehana-hassan  
 
 ---
 
-## 🚀 What I Do
+# 🚀 What I Do
 
-- 📊 Data Analysis (Power BI, Pandas)
-- 💻 Web Development (Django, React)
-- 🐍 Python Development
-- 🐛 Debugging & Optimization
+✔️ Data Analysis (Power BI, Pandas, SQL)  
+✔️ Full-Stack Development (Django, React)  
+✔️ Python Programming  
+✔️ Debugging & Performance Optimization  
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=FFD700)
@@ -46,34 +47,49 @@
 ### 📊 Data
 ![Power BI](https://img.shields.io/badge/powerbi-black?style=for-the-badge&logo=powerbi&logoColor=FFD700)
 ![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas&logoColor=FFD700)
+![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql&logoColor=FFD700)
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics (Elite Dashboard)
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rihhanna&show_icons=true&theme=dark&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=000000&cache_seconds=1800"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rihhanna&show_icons=true&theme=dark&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=0d1117&border_radius=15" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rihhanna&layout=compact&theme=dark&title_color=FFD700&text_color=ffffff&bg_color=000000&cache_seconds=1800"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rihhanna&theme=dark&background=0d1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&border_radius=15" />
 
 </div>
+
+<br>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=rihhanna&theme=dark&background=000000&ring=FFD700&fire=FFD700&currStreakLabel=FFD700"/>
+<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rihhanna&theme=github_dark" />
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+# 🧠 Advanced Stats (Pro Level)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rihhanna&theme=github-dark&bg_color=000000&color=FFD700&line=FFD700&point=ffffff&hide_border=true"/>
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rihhanna&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rihhanna&theme=github_dark&utcOffset=3" />
+
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rihhanna&theme=github-dark&bg_color=0d1117&color=FFD700&line=FFD700&point=ffffff&hide_border=true"/>
+
+---
+
+# 🏆 GitHub Achievements
 
 <div align="center">
 
@@ -83,7 +99,7 @@
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 | Project | Description |
 |--------|------------|
@@ -93,14 +109,15 @@
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
 - 🤖 Machine Learning  
 - ☁️ Cloud Computing  
+- 📊 Advanced Data Analytics  
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <div align="center">
 
@@ -110,7 +127,7 @@
 
 ---
 
-## 🤝 Connect With Me
+# 🤝 Connect With Me
 
 <div align="center">
 
@@ -132,7 +149,7 @@
 
 <div align="center">
 
-✨ *"Excellence is built one bug fix at a time."*  
+✨ *"Turning data into decisions, code into impact."*  
 
 🧕 **Rehana Hassan**  
 **Software Engineer | Data Analyst**
