@@ -152,6 +152,6 @@
 ✨ *"Turning data into decisions, code into impact."*  
 
 🧕 **Rehana Hassan**  
-**Software Engineer | Data Analyst**
+**Software Engineer | Data Analyst | Machine Learning**
 
 </div>
