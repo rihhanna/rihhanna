@@ -71,7 +71,7 @@
 
 ---
 
-# 🧠 Advanced Stats (Pro Level)
+# 🧠 Advanced Stats (Pro Level)))))
 
 <div align="center">
 
@@ -151,7 +151,7 @@
 
 ✨ *"Turning data into decisions, code into impact."*  
 
-🧕 **Rehana Hassan**  
+🧕 **Rehana **  
 **Software Engineer | Data Analyst | Machine Learning**
 
 </div>
