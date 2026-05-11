@@ -1,8 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=900&height=60&duration=4000&lines=Hi+👋,+I'm+Rehana+Hassan;Software+Engineer+%7C+Data+Analyst;Turning+Data+into+Insights;Building+Impactful+Solutions&color=FFD700" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=42&center=true&vCenter=true&width=950&height=70&duration=4000&lines=Hi+👋,+I'm+Rehana+Hassan+Muhumed;Software+Engineer+%7C+Data+Analyst;Machine+Learning+Enthusiast;Turning+Data+Into+Insights;Building+Solutions+That+Matter&color=FFD700" />
 
-<img src="https://komarev.com/ghpvc/?username=rihhanna&label=Profile%20Views&color=FFD700&style=flat-square" />
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=rihhanna&label=Profile%20Views&color=FFD700&style=for-the-badge" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Software%20Engineer-FFD700?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/Data%20Analyst-FFD700?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Machine%20Learning-FFD700?style=for-the-badge&logo=tensorflow&logoColor=black" />
 
 </div>
 
@@ -10,54 +18,81 @@
 
 # 👩‍💻 About Me
 
-🎓 Software Engineering Graduate (**Magna Cum Laude – 3.86 GPA**)  
-🏆 Hackathon Winner – *Telesom Academy 2024*  
-🧕 Proud **Hijabi in Tech**
+🎓 Software Engineering Graduate (**Magna Cum Laude – GPA 3.86**)  
+🏆 Hackathon Winner — **Telesom Academy 2024**  
+🧕 Proud Hijabi Woman in Tech  
 
-💡 Passionate about **Data Analytics, Machine Learning & Full-Stack Development**
+💡 Passionate about:
+- Data Analytics & Visualization
+- Machine Learning
+- Full-Stack Development
+- Building impactful digital solutions
 
-📍 Based in Somaliland  
-📫 **Email:** hrihhana@gmail.com  
-🔗 **LinkedIn:** https://linkedin.com/in/rehana-hassan  
+🌍 Based in Somaliland  
+📫 **Email:** `hrihhana@gmail.com`  
+🔗 **LinkedIn:** `linkedin.com/in/rehana-hassan`  
+💻 **GitHub:** `github.com/rihhanna`
 
 ---
 
-# 🚀 What I Do
+# 🚀 Professional Summary
 
-✔️ Data Analysis (Power BI, Pandas, SQL)  
-✔️ Full-Stack Development (Django, React)  
-✔️ Python Programming  
-✔️ Debugging & Performance Optimization  
+I am a Software Engineer and aspiring Data Analyst passionate about transforming raw data into meaningful insights and building modern applications that solve real-world problems.
+
+My interests include:
+- 📊 Business Intelligence & Data Analytics
+- 🤖 Machine Learning & Predictive Modeling
+- 🌐 Full-Stack Web Development
+- 📈 Interactive Dashboards & Data Storytelling
+
+I enjoy learning new technologies, contributing to projects, and continuously improving my technical and analytical skills.
 
 ---
 
 # 🛠️ Tech Stack
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=FFD700)
-![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=FFD700)
-![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk&logoColor=FFD700)
-![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp&logoColor=FFD700)
+<div align="center">
 
-### 🌐 Web
-![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=FFD700)
-![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=FFD700)
-![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=FFD700)
+## 💻 Programming Languages
 
-### 📊 Data
-![Power BI](https://img.shields.io/badge/powerbi-black?style=for-the-badge&logo=powerbi&logoColor=FFD700)
-![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas&logoColor=FFD700)
-![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql&logoColor=FFD700)
+<img src="https://skillicons.dev/icons?i=python,java,js,cs,c,cpp" />
 
 ---
 
-# 📊 GitHub Analytics (Elite Dashboard)
+## 🌐 Frontend & Web Technologies
+
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,django" />
+
+---
+
+## 📊 Data Analytics & Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/Plotly-000000?style=for-the-badge&logo=plotly&logoColor=FFD700"/>
+
+---
+
+## ⚙️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma" />
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rihhanna&show_icons=true&theme=dark&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=0d1117&border_radius=15" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rihhanna&show_icons=true&theme=github_dark&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=0D1117" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rihhanna&theme=dark&background=0d1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&border_radius=15" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rihhanna&theme=github-dark&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&background=0D1117" />
 
 </div>
 
@@ -71,21 +106,13 @@
 
 ---
 
-# 🧠 Advanced Stats (Pro Level)))))
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rihhanna&theme=github_dark" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rihhanna&theme=github_dark&utcOffset=3" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rihhanna&theme=github-dark&bg_color=0d1117&color=FFD700&line=FFD700&point=ffffff&hide_border=true"/>
 
 </div>
-
----
-
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rihhanna&theme=github-dark&bg_color=0d1117&color=FFD700&line=FFD700&point=ffffff&hide_border=true"/>
 
 ---
 
@@ -93,7 +120,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rihhanna&theme=darkhub&no-frame=true&margin-w=10&title=Stars,Followers,Commits,Repositories"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rihhanna&theme=darkhub&no-frame=true&margin-w=12&margin-h=12&title=Stars,Followers,Repositories,Commits,Experience"/>
 
 </div>
 
@@ -101,19 +128,38 @@
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|--------|------------|
-| 🌱 Crop IQ | Smart agriculture system |
-| 📊 Churn Analysis | Power BI dashboard |
-| 📚 Online Bookstore | Django full-stack app |
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| 🌱 **Crop IQ** | Smart agriculture recommendation system | Python, ML |
+| 📊 **Customer Segmentation Dashboard** | RFM customer analytics dashboard | Python, Dash, Plotly |
+| 📈 **Churn Analysis Dashboard** | Customer churn insights using Power BI | Power BI, SQL |
+| 📚 **Online Bookstore** | Full-stack bookstore management system | Django, Bootstrap |
+| 🦠 **COVID-19 Data Pipeline** | Data engineering & analytics project | Python, Pandas |
 
 ---
 
 # 📚 Currently Learning
 
-- 🤖 Machine Learning  
-- ☁️ Cloud Computing  
-- 📊 Advanced Data Analytics  
+<div align="center">
+
+| Learning Area | Progress |
+|---------------|----------|
+| 🤖 Machine Learning | ████████░░ 80% |
+| ☁️ Cloud Computing | ██████░░░░ 60% |
+| 📊 Advanced Data Analytics | ███████░░░ 70% |
+| 🧠 Deep Learning | ████░░░░░░ 40% |
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Complete IBM Data Analyst Professional Certificate
+- ✅ Build strong data analytics portfolio projects
+- 🚀 Learn advanced machine learning techniques
+- 🌐 Contribute to open-source projects
+- 📊 Become a professional Data Analyst / ML Engineer
 
 ---
 
@@ -127,31 +173,35 @@
 
 ---
 
-# 🤝 Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://linkedin.com/in/rehana-hassan">
-<img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700"/>
 </a>
 
 <a href="mailto:hrihhana@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FFD700"/>
 </a>
 
 <a href="https://github.com/rihhanna">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD700"/>
 </a>
 
 </div>
 
 ---
 
+# 📌 Quote
+
 <div align="center">
 
-✨ *"Turning data into decisions, code into impact."*  
+### ✨ “Turning data into insights, and ideas into impactful solutions.”
 
-🧕 **Rehana Hassan**  
-**Software Engineer | Data Analyst | Machine Learning**
+<br>
+
+🧕 **Rehana Hassan Muhumed**  
+**Software Engineer • Data Analyst • ML Enthusiast**
 
 </div>
