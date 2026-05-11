@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=42&center=true&vCenter=true&width=950&height=70&duration=4000&lines=Hi+👋,+I'm+Rehana+Hassan+Muhumed;Software+Engineer+%7C+Data+Analyst;Machine+Learning+Enthusiast;Turning+Data+Into+Insights;Building+Solutions+That+Matter&color=FFD700" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=42&center=true&vCenter=true&width=950&height=70&duration=4000&lines=Hi+👋,+I'm+Rehana+Hassan+Muhumed;Software+Engineer+%7C+Data+Analyst;Aspiring+AI+%26+ML+Specialist;Turning+Data+Into+Insights;Building+Solutions+That+Matter&color=FFD700" />
 
 <br>
 
@@ -10,7 +10,7 @@
 
 <img src="https://img.shields.io/badge/Software%20Engineer-FFD700?style=for-the-badge&logo=github&logoColor=black" />
 <img src="https://img.shields.io/badge/Data%20Analyst-FFD700?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Machine%20Learning-FFD700?style=for-the-badge&logo=tensorflow&logoColor=black" />
+<img src="https://img.shields.io/badge/Aspiring%20AI%20Specialist-FFD700?style=for-the-badge&logo=openai&logoColor=black" />
 
 </div>
 
@@ -23,10 +23,11 @@
 🧕 Proud Hijabi Woman in Tech  
 
 💡 Passionate about:
-- Data Analytics & Visualization
-- Machine Learning
-- Full-Stack Development
-- Building impactful digital solutions
+- 📊 Data Analytics & Visualization
+- 🤖 Machine Learning & Artificial Intelligence
+- 🌐 Full-Stack Development
+- 📈 Business Intelligence & Dashboards
+- 🧠 Solving real-world problems using data
 
 🌍 Based in Somaliland  
 📫 **Email:** `hrihhana@gmail.com`  
@@ -37,50 +38,79 @@
 
 # 🚀 Professional Summary
 
-I am a Software Engineer and aspiring Data Analyst passionate about transforming raw data into meaningful insights and building modern applications that solve real-world problems.
+I am a Software Engineer and aspiring AI & Machine Learning Specialist with a strong passion for data analytics, intelligent systems, and modern web technologies.
 
-My interests include:
-- 📊 Business Intelligence & Data Analytics
-- 🤖 Machine Learning & Predictive Modeling
-- 🌐 Full-Stack Web Development
-- 📈 Interactive Dashboards & Data Storytelling
+I enjoy transforming raw data into meaningful insights through dashboards, predictive models, and data-driven solutions.
 
-I enjoy learning new technologies, contributing to projects, and continuously improving my technical and analytical skills.
+Currently focused on:
+- 📊 Data Analytics & Visualization
+- 🤖 Machine Learning
+- 🧠 Artificial Intelligence
+- 📈 Business Intelligence
+- ☁️ Cloud & Data Technologies
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-## 💻 Programming Languages
+# 💻 Programming Languages
 
 <img src="https://skillicons.dev/icons?i=python,java,js,cs,c,cpp" />
 
----
+<br><br>
 
-## 🌐 Frontend & Web Technologies
+# 🌐 Frontend & Backend
 
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,django" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,django,nodejs" />
 
----
+<br><br>
 
-## 📊 Data Analytics & Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-
-<br>
+# 📊 Data Analytics & BI Tools
 
 <img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/Google_Colab-000000?style=for-the-badge&logo=googlecolab&logoColor=FFD700"/>
+
+<br><br>
+
+# 🤖 Machine Learning & AI
+
+<img src="https://img.shields.io/badge/Scikit_Learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/Keras-000000?style=for-the-badge&logo=keras&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=FFD700"/>
+
+<br><br>
+
+# 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql,mongodb" />
+
+<br><br>
+
+# 📚 Python Libraries
+
 <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=FFD700"/>
 <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=plotly&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/Seaborn-000000?style=for-the-badge&logo=python&logoColor=FFD700"/>
 <img src="https://img.shields.io/badge/Plotly-000000?style=for-the-badge&logo=plotly&logoColor=FFD700"/>
 
----
+<br><br>
 
-## ⚙️ Tools & Platforms
+# ⚙️ Developer Tools & Environments
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,linux" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Anaconda-000000?style=for-the-badge&logo=anaconda&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=FFD700"/>
 
 </div>
 
@@ -142,11 +172,11 @@ I enjoy learning new technologies, contributing to projects, and continuously im
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| 🌱 **Crop IQ** | Smart agriculture recommendation system | Python, ML |
-| 📊 **Customer Segmentation Dashboard** | RFM customer analytics dashboard | Python, Dash, Plotly |
-| 📈 **Churn Analysis Dashboard** | Customer churn insights using Power BI | Power BI, SQL |
-| 📚 **Online Bookstore** | Full-stack bookstore management system | Django, Bootstrap |
-| 🦠 **COVID-19 Data Pipeline** | Data engineering & analytics project | Python, Pandas |
+| 🌱 Crop IQ | Smart agriculture recommendation system | Python, ML |
+| 📊 Customer Segmentation Dashboard | RFM customer analytics dashboard | Dash, Plotly |
+| 📈 Churn Analysis Dashboard | Business Intelligence dashboard | Power BI, SQL |
+| 📚 Online Bookstore | Full-stack bookstore management system | Django |
+| 🦠 COVID-19 Data Pipeline | Data engineering project | Python, Pandas |
 
 ---
 
@@ -157,9 +187,10 @@ I enjoy learning new technologies, contributing to projects, and continuously im
 | Learning Area | Progress |
 |---------------|----------|
 | 🤖 Machine Learning | ████████░░ 80% |
+| 🧠 Artificial Intelligence | ███████░░░ 70% |
 | ☁️ Cloud Computing | ██████░░░░ 60% |
-| 📊 Advanced Data Analytics | ███████░░░ 70% |
-| 🧠 Deep Learning | ████░░░░░░ 40% |
+| 📊 Advanced Data Analytics | ████████░░ 80% |
+| 🔍 Deep Learning | ████░░░░░░ 40% |
 
 </div>
 
@@ -168,10 +199,11 @@ I enjoy learning new technologies, contributing to projects, and continuously im
 # 🎯 2026 Goals
 
 - ✅ Complete IBM Data Analyst Professional Certificate
-- ✅ Build strong data analytics portfolio projects
-- 🚀 Learn advanced machine learning techniques
+- 🚀 Become AI & ML Specialist
+- 📊 Build advanced analytics dashboards
+- 🤖 Create machine learning projects
 - 🌐 Contribute to open-source projects
-- 📊 Become a professional Data Analyst / ML Engineer
+- 💼 Start career in Data & AI industry
 
 ---
 
@@ -205,15 +237,15 @@ I enjoy learning new technologies, contributing to projects, and continuously im
 
 ---
 
-# 📌 Quote
+# ✨ Quote
 
 <div align="center">
 
-### ✨ “Turning data into insights, and ideas into impactful solutions.”
+### “Turning data into insights, and ideas into impactful solutions.”
 
 <br>
 
 🧕 **Rehana Hassan Muhumed**  
-**Software Engineer • Data Analyst • ML Enthusiast**
+**Software Engineer • Data Analyst • Aspiring AI Specialist**
 
 </div>
