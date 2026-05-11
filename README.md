@@ -92,7 +92,7 @@ I enjoy learning new technologies, contributing to projects, and continuously im
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rihhanna&show_icons=true&theme=github_dark&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=0D1117" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rihhanna&theme=github-dark&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&background=0D1117" />
+<img width="49%" src="https://streak-stats.demolab.com?user=rihhanna&theme=github-dark&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&background=0D1117" />
 
 </div>
 
@@ -101,6 +101,18 @@ I enjoy learning new technologies, contributing to projects, and continuously im
 <div align="center">
 
 <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rihhanna&theme=github_dark" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rihhanna&theme=github_dark" />
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rihhanna&theme=github_dark" />
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rihhanna&theme=github_dark" />
 
 </div>
 
