@@ -175,7 +175,7 @@ Currently focused on:
 | 🌱 Crop IQ | Smart agriculture recommendation system | Python, ML |
 | 📊 Customer Segmentation Dashboard | RFM customer analytics dashboard | Dash, Plotly |
 | 📈 Churn Analysis Dashboard | Business Intelligence dashboard | Power BI, SQL |
-| 📚 Online Bookstore | Full-stack bookstore management system | Django |
+| 📚 Online Bookstore | Full-stack bookstore management system | Asp.Net |
 | 🦠 COVID-19 Data Pipeline | Data engineering project | Python, Pandas |
 
 ---
