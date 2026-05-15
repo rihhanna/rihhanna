@@ -196,7 +196,7 @@ Currently focused on:
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 2026 Goals Insha-Allah
 
 - ✅ Complete IBM Data Analyst Professional Certificate
 - 🚀 Become AI & ML Specialist
