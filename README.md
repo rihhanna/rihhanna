@@ -198,7 +198,7 @@ Currently focused on:
 
 # 🎯 2026 Goals Insha-Allah
 
-- ✅ Complete IBM Data Analyst Professional Certificate
+- ✅ Complete IBM Data Analyst Professional Certificate ---Done this proceses
 - 🚀 Become AI & ML Specialist
 - 📊 Build advanced analytics dashboards
 - 🤖 Create machine learning projects
