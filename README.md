@@ -245,7 +245,7 @@ Currently focused on:
 
 <br>
 
-🧕 **Rehana (Rai_Noir) Eid-Adha Mubarak to all muslims**  
+🧕 **Rehana (Rai_Noir) Eid-day4**  
 **Software Engineer • Data Analyst • Aspiring AI Specialist**
 
 </div>
