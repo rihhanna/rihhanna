@@ -245,7 +245,7 @@ Currently focused on:
 
 <br>
 
-🧕 **Rehana Hassan**  
+🧕 **Rehana**  
 **Software Engineer • Data Analyst • Aspiring AI Specialist**
 
 </div>
