@@ -245,7 +245,7 @@ Currently focused on:
 
 <br>
 
-🧕 **Rehana Hasssan (Rai Noir)**  
+🧕 **Rehana (Rai Noir)**  
 **Software Engineer • Data Analyst • Aspiring AI Specialist**
 
 </div>
