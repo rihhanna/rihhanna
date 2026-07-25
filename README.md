@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=42&center=true&vCenter=true&width=950&height=70&duration=4000&lines=Hi+👋,+I'm+Rehana+Hassan+Muhumed;Software+Engineer+%7C+Data+Analyst;Aspiring+AI+%26+ML+Specialist;Turning+Data+Into+Insights;Building+Solutions+That+Matter&color=FFD700" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=42&center=true&vCenter=true&width=950&height=70&duration=4000&lines=Hi+👋,+I'm+Rehana+Hassan+Muhumed;Software+Engineer+%7C+Data+Analyst;Machine+Learning+%26+AI+Enthusiast;Turning+Data+Into+Intelligent+Solutions;Building+Solutions+That+Matter&color=FFD700" />
 
 <br>
 
@@ -9,8 +9,10 @@
 <br><br>
 
 <img src="https://img.shields.io/badge/Software%20Engineer-FFD700?style=for-the-badge&logo=github&logoColor=black" />
+
 <img src="https://img.shields.io/badge/Data%20Analyst-FFD700?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Aspiring%20AI%20Specialist-FFD700?style=for-the-badge&logo=openai&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Machine%20Learning%20%26%20AI-FFD700?style=for-the-badge&logo=openai&logoColor=black" />
 
 </div>
 
@@ -23,13 +25,15 @@
 🧕 Proud Hijabi Woman in Tech  
 
 💡 Passionate about:
-- 📊 Data Analytics & Visualization
+
 - 🤖 Machine Learning & Artificial Intelligence
+- 📊 Data Analytics & Visualization
+- 📈 Business Intelligence
 - 🌐 Full-Stack Development
-- 📈 Business Intelligence & Dashboards
-- 🧠 Solving real-world problems using data
+- 🧠 Building intelligent solutions using data
 
 🌍 Based in Somaliland  
+
 📫 **Email:** `hrihhana@gmail.com`  
 🔗 **LinkedIn:** `linkedin.com/in/rehana-hassan`  
 💻 **GitHub:** `github.com/rihhanna`
@@ -38,214 +42,137 @@
 
 # 🚀 Professional Summary
 
-I am a Software Engineer and aspiring AI & Machine Learning Specialist with a strong passion for data analytics, intelligent systems, and modern web technologies.
+I am a Software Engineer, Data Analyst, and Machine Learning enthusiast passionate about building intelligent systems and transforming data into meaningful solutions.
 
-I enjoy transforming raw data into meaningful insights through dashboards, predictive models, and data-driven solutions.
+Alhamdulillah, my journey has taken me from software development into the world of data analytics and artificial intelligence. Through certifications, internships, and hands-on projects, I have developed practical experience in analyzing data, building predictive models, and creating technology solutions.
 
 Currently focused on:
-- 📊 Data Analytics & Visualization
-- 🤖 Machine Learning
-- 🧠 Artificial Intelligence
-- 📈 Business Intelligence
-- ☁️ Cloud & Data Technologies
+
+- 🤖 Machine Learning & Artificial Intelligence
+- 📊 Data Analytics & Business Intelligence
+- 🧠 Predictive Modeling
+- 📈 Data-driven Decision Making
+- 🌐 Software Development
+
+I enjoy exploring patterns in data, creating machine learning models, and developing solutions that solve real-world problems.
 
 ---
 
-# 🛠️ Tech Stack & Tools
+# 🏆 2026 Achievements
 
-<div align="center">
+Alhamdulillah, 2026 has been one of the most impactful years of my learning journey.
 
-# 💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,js,cs,c,cpp" />
-
-<br><br>
-
-# 🌐 Frontend & Backend
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,django,nodejs" />
-
-<br><br>
-
-# 📊 Data Analytics & BI Tools
-
-<img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=FFD700"/>
-<img src="https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=FFD700"/>
-<img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=FFD700"/>
-<img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=FFD700"/>
-<img src="https://img.shields.io/badge/Google_Colab-000000?style=for-the-badge&logo=googlecolab&logoColor=FFD700"/>
-
-<br><br>
-
-# 🤖 Machine Learning & AI
-
-<img src="https://img.shields.io/badge/Scikit_Learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=FFD700"/>
-<img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=FFD700"/>
-<img src="https://img.shields.io/badge/Keras-000000?style=for-the-badge&logo=keras&logoColor=FFD700"/>
-<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=FFD700"/>
-
-<br><br>
-
-# 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql,mongodb" />
-
-<br><br>
-
-# 📚 Python Libraries
-
-<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=FFD700"/>
-<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=FFD700"/>
-<img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=plotly&logoColor=FFD700"/>
-<img src="https://img.shields.io/badge/Seaborn-000000?style=for-the-badge&logo=python&logoColor=FFD700"/>
-<img src="https://img.shields.io/badge/Plotly-000000?style=for-the-badge&logo=plotly&logoColor=FFD700"/>
-
-<br><br>
-
-# ⚙️ Developer Tools & Environments
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,linux" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Anaconda-000000?style=for-the-badge&logo=anaconda&logoColor=FFD700"/>
-<img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=FFD700"/>
-<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=FFD700"/>
-
-</div>
+Within the first five months, I achieved several important milestones:
 
 ---
 
-# 📊 GitHub Analytics
+## 🎓 Certifications & Learning
 
-<div align="center">
+### ✅ Machine Learning Specialization — DeepLearning.AI (Coursera)
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rihhanna&show_icons=true&theme=github_dark&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=0D1117" />
+Successfully completed the full specialization covering:
 
-<img width="49%" src="https://streak-stats.demolab.com?user=rihhanna&theme=github-dark&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&background=0D1117" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rihhanna&theme=github_dark" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rihhanna&theme=github_dark" />
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rihhanna&theme=github_dark" />
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rihhanna&theme=github_dark" />
-
-</div>
+- Supervised Machine Learning
+- Regression & Classification
+- Neural Networks
+- TensorFlow
+- Decision Trees
+- Ensemble Learning
+- Clustering Algorithms
+- Anomaly Detection
+- Recommender Systems
+- Reinforcement Learning Fundamentals
 
 ---
 
-# 📈 Contribution Activity
+### ✅ IBM Data Analyst Professional Certificate
 
-<div align="center">
+Completed training in:
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rihhanna&theme=github-dark&bg_color=0d1117&color=FFD700&line=FFD700&point=ffffff&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rihhanna&theme=darkhub&no-frame=true&margin-w=12&margin-h=12&title=Stars,Followers,Repositories,Commits,Experience"/>
-
-</div>
+- Data Analysis
+- SQL
+- Excel
+- Data Visualization
+- Dashboards
+- Business Analytics
+- Data-driven storytelling
 
 ---
 
-# 🚀 Featured Projects
+# 💼 Internship Experience
 
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| 🌱 Crop IQ | Smart agriculture recommendation system | Python, ML | Django | Postrsequel
-| 📊 Customer Segmentation Dashboard | RFM customer analytics dashboard | Dash, Plotly |
-| 📈 Churn Analysis Dashboard | Business Intelligence dashboard | Power BI, SQL |
-| 📚 Online Bookstore | Full-stack bookstore management system | Asp.Net |
-| 🦠 COVID-19 Data Pipeline | Data engineering project | Python, Pandas |
+## ✅ Data Analytics Internship — Afynix Digital
 
----
+Completed a 6-week practical internship focused on:
 
-# 📚 Currently Learning
+📊 Data Cleaning & Preparation  
+📈 Data Visualization  
+🗄️ SQL Analytics  
+📢 Marketing Campaign Analysis Capstone Project  
 
-<div align="center">
+Technologies used:
 
-| Learning Area | Progress |
-|---------------|----------|
-| 🤖 Machine Learning | ████████░░ 80% |
-| 🧠 Artificial Intelligence | ███████░░░ 70% |
-| ☁️ Cloud Computing | ██████░░░░ 60% |
-| 📊 Advanced Data Analytics | ████████░░ 80% |
-| 🔍 Deep Learning | ████░░░░░░ 40% |
-
-</div>
+Python | Pandas | NumPy | SQL | Matplotlib | Seaborn | Jupyter Notebook | Git & GitHub
 
 ---
 
-# 🎯 2026 Goals Insha-Allah
+# 🤖 Machine Learning Projects
 
-- ✅ Complete IBM Data Analyst Professional Certificate ---Done this proceses
-- 🚀 Become AI & ML Specialist
-- 📊 Build advanced analytics dashboards
-- 🤖 Create machine learning projects
-- 🌐 Contribute to open-source projects
-- 💼 Start career in Data & AI industry
+Built and documented multiple machine learning projects:
 
----
+## 🏠 House Price Prediction
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/rihhanna/rihhanna/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
+- Regression-based prediction model
+- Data preprocessing
+- Feature analysis
+- Model evaluation
 
 ---
 
-# 🌐 Connect With Me
+## 🎓 Student Score Prediction
 
-<div align="center">
-
-<a href="https://linkedin.com/in/rehana-hassan">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700"/>
-</a>
-
-<a href="mailto:hrihhana@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FFD700"/>
-</a>
-
-<a href="https://github.com/rihhanna">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD700"/>
-</a>
-
-</div>
+- Predicting student performance
+- Regression techniques
+- Exploratory Data Analysis
 
 ---
 
-# ✨ Quote
+## ✅ Pass/Fail Classification System
 
-<div align="center">
+- Binary classification model
+- Logistic Regression
+- Model evaluation
 
-### “Turning data into insights, and ideas into impactful solutions.”
+---
 
-<br>
+## 🚗 Car Price Prediction
 
-🧕 **Rehana  (Rai Noir)**  
-**Software Engineer • Data Analyst • Aspiring AI Specialist**
+- Regression analysis
+- Feature engineering
+- Predictive modeling
 
-</div>
+---
+
+## 💳 Loan Approval Prediction
+
+- Classification problem
+- Data preprocessing
+- Machine learning pipeline
+
+---
+
+## 🛒 Customer Purchase Prediction
+
+- Customer behavior analysis
+- Predictive modeling techniques
+
+---
+
+Alhamdulillah, every project strengthened my skills in:
+
+- Data Cleaning
+- Exploratory Data Analysis
+- Feature Engineering
+- Machine Learning Algorithms
+- Model Evaluation
+- Problem Solving
