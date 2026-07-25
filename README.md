@@ -39,20 +39,7 @@
 
 ---
 
-# 🚀 Professional Summary
 
-I am a Software Engineer and aspiring AI & Machine Learning Specialist with a strong passion for data analytics, intelligent systems, and modern web technologies.
-
-I enjoy transforming raw data into meaningful insights through dashboards, predictive models, and data-driven solutions.
-
-Currently focused on:
-- 📊 Data Analytics & Visualization
-- 🤖 Machine Learning
-- 🧠 Artificial Intelligence
-- 📈 Business Intelligence
-- ☁️ Cloud & Data Technologies
-
----
 ---
 
 # 🏆 2026 Achievements
