@@ -322,7 +322,7 @@ Alhamdulillah, every achievement represents consistency, dedication, and continu
 
 <br>
 
-🧕 **Rehana (Rai Noir)**  
+🧕 **Rehana Hassan (Rai Noir)**  
 **Software Engineer | Data Analyst | Machine Learning Enthusiast**
 
 </div>
